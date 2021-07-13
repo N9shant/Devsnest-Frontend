@@ -14,4 +14,5 @@
 | [THA-08](./THA-08)       | Toggle card (JS)              | [Link](https://n9shant.github.io/Devsnest-Frontend-THA/THA-08/)   |
 | [THA-09](./THA-09)       | Seat Booking (JS)             | [Link](https://n9shant.github.io/Devsnest-Frontend-THA/THA-09/)   |
 | [THA-10](./THA-10)       | Memory Card Game (JS)         | [Link](https://n9shant.github.io/Devsnest-Frontend-THA/THA-10/)   |
+| [THA-11](./THA-11)       | Javascript Quiz (JS)          | [Link](https://n9shant.github.io/Devsnest-Frontend-THA/THA-11/)   |
 
