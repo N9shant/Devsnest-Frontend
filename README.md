@@ -19,4 +19,5 @@
 | [THA-13](./THA-13)       | Using API (JS)                | [Link](https://n9shant.github.io/Devsnest-Frontend-THA/THA-13/)   |
 | [THA-16](./THA-16)       | Meme Card and ChessBoard      |                                                                   |
 | [THA-17](./THA-17)       | Calorie Tracker               |                                                                   |
+| [THA-18](./THA-18)       | ChessBoard (using map)        |                                                                   |
 
