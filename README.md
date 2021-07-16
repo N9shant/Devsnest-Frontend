@@ -18,4 +18,4 @@
 | [THA-16(1)](./THA-16) |       Meme Card        |     [Link](https://devsnest-frontend-tha-16-1.netlify.app/)     |
 | [THA-16(2)](./THA-16) |       ChessBoard       |     [Link](https://devsnest-frontend-tha-16-2.netlify.app/)     |
 |  [THA-17](./THA-17)   |    Calorie Tracker     |      [Link](https://devsnest-frontend-tha-17.netlify.app/)      |
-|  [THA-18](./THA-18)   | ChessBoard (using map) |                                                                 |
+|  [THA-18](./THA-18)   | ChessBoard (using map) |      [Link](https://devsnest-frontend-tha-18.netlify.app/)      |
